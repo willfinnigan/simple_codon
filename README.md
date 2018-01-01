@@ -3,7 +3,7 @@
 ## Description
 a simple function for codon optimisation
 
-The function `make_new_seq(protein_seq, codon_table, low_cuttoff)` found in optimisation_function.py is used
+The function `make_new_seq(protein_seq, codon_table, low_cuttoff)` found in optimisation_function.py is used.  
 This will return a dna_sequence
 
 
