@@ -46,9 +46,10 @@ In this example frequencies for each amino acid total 1000,
 so a cuttoff of 100 removes codons used less than 10% of the time  
 `codon_cuttoff = 100`
 
-Make an individual sequence and print  
-`new_seq = make_new_seq(protein, codon_table, codon_cuttoff)`
+Make a codon optimised dna sequence from the protein sequence  
+`new_seq = make_new_seq(protein, codon_table, codon_cuttoff)`  
 
+Print the dna sequence
 `print(new_seq)`  
 `> ATGCGCGCCGTGGTCTTCGAGAACAAGGAGCGGGTGGCGGTCAAGGAGGTGAACGCGCCCCGGCTGCAACACCCCCTCGACGCCCTTGTGCGCGTCCACCTTGCCGGGATCTGCGG  
 GAGCGACCTGCACCTCTACCACGGCAAGATCCCCGTCCTGCCCGGGTCCGTCCTCGGCCACGAGTTCGTGGGGCAGGTGGAGGCCGTCGGGGAGGGGATCCAGGACCTCCAGCCGGGGG  
