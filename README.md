@@ -1,6 +1,9 @@
 # simple_codon
 This code requires lea==2.0.0
 
+Run google colab notebook:
+https://colab.research.google.com/github/willfinnigan/simple_codon/blob/master/Simple_Codon.ipynb
+
 ## Description
 a simple function for codon optimisation
 
