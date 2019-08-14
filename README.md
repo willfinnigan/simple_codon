@@ -1,4 +1,5 @@
 # simple_codon
+This code requires lea==2.0.0
 
 ## Description
 a simple function for codon optimisation
